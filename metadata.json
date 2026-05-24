@@ -1,0 +1,6 @@
+{
+  "name": "David",
+  "description": "Yapay zeka destekli ders çalışma arkadaşınız, sorunlarınızı adım adım çözün.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
